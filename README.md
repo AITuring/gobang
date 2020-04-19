@@ -1,9 +1,9 @@
 ## gobang
 一个简单的在线五子棋对战AI
-欢迎访问http://go.loveai.xyz
+欢迎[访问](https://go.apoollo.xyz/)在线体验
 
 ### 代码结构
-本实验是由html、css以及javascript构成的，其中html和css主要规定了棋盘的样式。主要代码在JavaScript中。js中，代码主要有两部分构成，一部分是绘制棋盘，棋子以及实现鼠标点击落子。另一部分是利用搜索算法实现机器落子与人对战。
+本项目是由html、css以及javascript构成的，其中html和css主要规定了棋盘的样式。主要代码在JavaScript中。js中，代码主要有两部分构成，一部分是绘制棋盘，棋子以及实现鼠标点击落子。另一部分是利用搜索算法实现机器落子与人对战。
 #### 五子棋的实现
 这一部分主要有三个函数：
 
@@ -113,5 +113,4 @@ if(!over){
     chess = !chess ;  //如果游戏没结束，
 }
 ```
-### 5.实验结果展示
-欢迎访问 http://go.loveai.xyz
+
