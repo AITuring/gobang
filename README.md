@@ -1,6 +1,6 @@
 ## gobang
 一个简单的在线五子棋对战AI
-欢迎[访问](https://go.apoollo.xyz/)在线体验
+欢迎[在线体验](https://go.apoollo.xyz/)
 
 ### 代码结构
 本项目是由html、css以及javascript构成的，其中html和css主要规定了棋盘的样式。主要代码在JavaScript中。js中，代码主要有两部分构成，一部分是绘制棋盘，棋子以及实现鼠标点击落子。另一部分是利用搜索算法实现机器落子与人对战。
